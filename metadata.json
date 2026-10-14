@@ -1,0 +1,6 @@
+{
+  "name": "María José Ramírez - Asesoría Fiscal y Contable Costa Rica",
+  "description": "Despacho contable y tributario en Costa Rica. Asesoría online y presencial para empresas y profesionales: ATV, IVA (D-104), Renta (D-101), CCSS y facturación electrónica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
